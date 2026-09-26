@@ -1,5 +1,5 @@
 <h1 align="center">Fatih Mehmet Çıldır</h1>
-<h3 align="center">Artificial Intelligence Engineer | Görüntü İşleme & NLP</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0ABF5B&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;T%C3%BCrk%C3%A7e+Dil+Modelleri;S%C3%BCrekli+%C3%96%C4%9Freniyor%2C+%C3%9Cretiyorum" alt="Typing SVG" />
@@ -43,7 +43,7 @@ Makine öğrenmesi algoritmaları ve sohbet botu entegrasyonu kullanılarak, kul
 |---|---|---|
 | [Türkçe Dil Destekli Çok Kipli Patoloji VQA](https://github.com/fatihcldr/turkce-dil-destekli-cok-kipli-patoloji-vqa) | Patoloji görüntüleri üzerinde Türkçe doğal dil sorularını yanıtlayabilen çok kipli (multimodal) bir VQA sistemi | Python, Multimodal ML |
 | [Hayvan Barınağı Veritabanı Sistemi](https://github.com/fatihcldr/2025-Yaz-Staj-Projesi-Hayvan-Bar-nak-Database-) | Yaz stajı kapsamında geliştirilen hayvan barınağı yönetim/veritabanı projesi | Python, SQL |
-| [Spam Detector](https://github.com/fatihcldr/Spam-detector-project) | Metin sınıflandırma tabanlı spam tespit sistemi | Python, HTML |
+| [Spam Detector](https://github.com/fatihcldr/Spam-detector-project) | Metin sınıflandırma tabanlı spam tespit sistemi | Python, HTML, CSS |
 | [Sudoku Solver](https://github.com/fatihcldr/Sudoku_solver) | Sudoku bulmacalarını algoritmik olarak çözen uygulama | Python |
 
 ---
@@ -51,15 +51,8 @@ Makine öğrenmesi algoritmaları ve sohbet botu entegrasyonu kullanılarak, kul
 ## Teknolojiler & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,pytorch,tensorflow,opencv,git,github,linux,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,pytorch,tensorflow,opencv,git,github,linux,html,css,postgres" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-</p>
-
 ---
 
 ## GitHub İstatistikleri
