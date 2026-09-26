@@ -1,43 +1,68 @@
-<h1 align="center">Merhaba, Ben Fatih 👋</h1>
-<h3 align="center">Artificial Intelligence Engineer | Türkçe NLP & Multimodal AI</h3>
+<h1 align="center">Fatih Mehmet Çıldır</h1>
+<h3 align="center">Artificial Intelligence Engineer | Görüntü İşleme & NLP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0ABF5B&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%26+NLP;T%C3%BCrk%C3%A7e+Dil+Modelleri+%C3%9Czerine+%C3%87al%C4%B1%C5%9F%C4%B1yorum;S%C3%BCrekli+%C3%B6%C4%9Freniyor%2C+%C3%BCretiyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0ABF5B&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;T%C3%BCrk%C3%A7e+Dil+Modelleri;S%C3%BCrekli+%C3%96%C4%9Freniyor%2C+%C3%9Cretiyorum" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Hakkımda
+## Hakkımda
 
-- 🔭 Şu anda **çok kipli (multimodal) yapay zeka** ve **Türkçe doğal dil işleme** üzerine projeler geliştiriyorum.
-- 🧠 İlgi alanlarım: Görsel Soru Cevaplama (VQA), NLP ve veri odaklı otomasyon sistemlerinin yanı sıra, yapay zekanın farklı alanlardaki uygulamaları.
-- 🌱 Şu anda derinlemesine öğrendiğim konular: Transformer tabanlı modeller, RAG sistemleri, üretim ortamına AI entegrasyonu.
-- 📍 Ankara, Türkiye
-- 💬 Türkçe dil kaynaklarının yetersiz olduğu alanlarda (ör. tıbbi görüntüleme) çözümler üretmekle ilgileniyorum.
-- 📫 Bana ulaşmak için: **[fatihmehmetcildir@gmail.com](mailto:fatihmehmetcildir@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/fatihcldr/)**
+- Aktif olarak makine öğrenmesi, veri analizi, derin öğrenme ve görüntü işleme teknolojileri üzerine yoğunlaşıyorum.
+- Teorik bilgimi pratiğe dökmek ve sürekli güncel kalmak amacıyla her gün yeni şeyler öğrenmeye ve bu bilgileri kullanarak projeler geliştirmeye odaklanıyorum.
+- Öğrenme sürecimin bir parçası olarak makine öğrenmesi algoritmaları ve çeşitli sinir ağı modelleri üzerine uygulamalar yapmaktayım.
+- İletişim: **[fatihmehmetcildir@gmail.com](mailto:fatihmehmetcildir@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/fatihcldr/)**
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+## İş Deneyimi
 
-| Proje | Açıklama | Teknoloji |
+**INFODIF** — Stajyer · 06/2026 – 07/2026
+- OpenCV tabanlı görüntü işleme yöntemleriyle Sudoku tahtasının segmentasyonu ve hücre çıkarımı.
+- CNN mimarisi kullanılarak rakamların sınıflandırılması ve çözüm algoritmasıyla entegre edilmesi.
+
+**DATAFLOWX** — Stajyer · 01/2025 – 02/2026
+- FastAPI ve Redis mimarisiyle asenkron çalışan, yüksek doğruluk ve düşük gecikme ile e-postaları Ham, Spam veya Phishing olarak sınıflandıran hibrit bir sistemin geliştirilmesi.
+- Metin analizi için Linear SVM, mailin yapısal analizi için ise XGBoost modellerinin kullanılması; makine öğrenmesi kararlarının kural tabanlı (hard rules) bir yapıyla desteklenmesi.
+- Tesseract ve LangDetect kullanılarak, yalnızca gerekli ve riskli durumlarda devreye giren seçici bir OCR mimarisinin kurulması.
+- Disk gecikmelerini ortadan kaldırmak amacıyla, disk devre dışı bırakılarak görüntü işleme adımlarının doğrudan RAM üzerinde gerçekleştirilmesi.
+- Eğitilen modelin Flask ile web arayüzüne entegre edilmesi ve gerçek zamanlı sınıflandırma yapan uçtan uca bir platform oluşturulması.
+
+---
+
+## Projeler
+
+**Tarım İş Gücü Optimizasyon Platformu (TİOP) — TEGİP Projesi**
+Tarımsal iş gücü eşleştirmesini ve operasyon planlamasını optimize etmek amacıyla, ekip üyesi (Backend Geliştirici) olarak görev alınan Ar-Ge odaklı yazılım platformu projesi.
+
+**Yapay Zeka Destekli Diyet Platformu — TÜBİTAK Projesi**
+Makine öğrenmesi algoritmaları ve sohbet botu entegrasyonu kullanılarak, kullanıcılara kişiselleştirilmiş beslenme planları oluşturan sistemin geliştirilmesi.
+
+| Repo | Açıklama | Teknoloji |
 |---|---|---|
-| 🩻 [Türkçe Dil Destekli Çok Kipli Patoloji VQA](https://github.com/fatihcldr/turkce-dil-destekli-cok-kipli-patoloji-vqa) | Patoloji görüntüleri üzerinde Türkçe doğal dil sorularını yanıtlayabilen çok kipli (multimodal) bir VQA sistemi | Python, Multimodal ML |
-| 🐾 [Hayvan Barınağı Veritabanı Sistemi](https://github.com/fatihcldr/2025-Yaz-Staj-Projesi-Hayvan-Bar-nak-Database-) | Yaz stajı kapsamında geliştirilen hayvan barınağı yönetim/veritabanı projesi | — |
-| 📧 [Spam Detector](https://github.com/fatihcldr/Spam-detector-project) | Metin sınıflandırma tabanlı spam tespit sistemi | Python, HTML |
-| 🧩 [Sudoku Solver](https://github.com/fatihcldr/Sudoku_solver) | Sudoku bulmacalarını algoritmik olarak çözen uygulama | Python |
+| [Türkçe Dil Destekli Çok Kipli Patoloji VQA](https://github.com/fatihcldr/turkce-dil-destekli-cok-kipli-patoloji-vqa) | Patoloji görüntüleri üzerinde Türkçe doğal dil sorularını yanıtlayabilen çok kipli (multimodal) bir VQA sistemi | Python, Multimodal ML |
+| [Hayvan Barınağı Veritabanı Sistemi](https://github.com/fatihcldr/2025-Yaz-Staj-Projesi-Hayvan-Bar-nak-Database-) | Yaz stajı kapsamında geliştirilen hayvan barınağı yönetim/veritabanı projesi | Python, SQL |
+| [Spam Detector](https://github.com/fatihcldr/Spam-detector-project) | Metin sınıflandırma tabanlı spam tespit sistemi | Python, HTML |
+| [Sudoku Solver](https://github.com/fatihcldr/Sudoku_solver) | Sudoku bulmacalarını algoritmik olarak çözen uygulama | Python |
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+## Teknolojiler & Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,html,css,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,docker,pytorch,tensorflow,opencv,git,github,linux,html,css,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatihcldr&show_icons=true&theme=radical&hide_border=true" />
@@ -47,7 +72,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihcldr&layout=compact&theme=radical&hide_border=true" />
 </p>
-
----
-
-<p align="center"><i>Profilime uğradığın için teşekkürler — projelerimi incelemekten çekinme! 🚀</i></p>
